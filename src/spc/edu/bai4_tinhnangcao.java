@@ -25,6 +25,7 @@ public class bai4_tinhnangcao {
     public static int tinhhieu(int a, int b) {return a-b;}
     public static int tinhtich(int a, int b) {return a*b;}
     public static int tinhthuong(int a, int b) {return a/b;}
-    
+     
+      
 }
 
