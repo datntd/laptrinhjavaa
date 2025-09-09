@@ -19,7 +19,7 @@ public class bai7_hinhchunhat {
         double chieuDai = 0;
        double dienTich = chieuDai * chieuRong;
        double chuVi = 2 * (chieuDai + chieuRong);
-       double duongCheo = Math.sqrt(Math.pow(chieuDai, 2) + Math.pow(chieuRong, 2));
+    
 
        System.out.println("chu vi hinh chu nhat");
         System.out.println("dien tich hinh chu nhat " + dienTich);
