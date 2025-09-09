@@ -24,12 +24,7 @@ public class bai7_hinhchunhat {
        System.out.println("chu vi hinh chu nhat");
         System.out.println("dien tich hinh chu nhat " + dienTich);
        
-   // hinh tron
-        System.out.println("ban kinh");
-double bk = Scanner.nextInt();
-double cvht =2*3.14*bk;
-double dtht = 3.14(bk*bk);
-        System.out.println("chu vi hinh chu nhat");
+ 
 
                 
     }
