@@ -3,7 +3,6 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package spc.edu;
-
 /**
  *
  * @author Administrator
@@ -16,6 +15,7 @@ public class bai2_helloword {
         int tong = a + b;
         System.out.println("Tong = " + tong);
          System.out.printf("Tong = %d" + tong);
+         
     }
 }
 
